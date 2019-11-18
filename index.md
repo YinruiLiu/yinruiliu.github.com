@@ -1,7 +1,8 @@
 # Yinrui (Lyret) Liu
 
 ## Education
-**University of Chinese Academy of Sciences (UCAS)**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sept. 2016-Present
+---
+**University of Chinese Academy of Sciences (UCAS)** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sept. 2016-Present
 
 Bachelor of Physics (Expected 2020)&emsp;&emsp;GPA: 3.91/4.00&emsp;&emsp;Ranking: 3/91
 
@@ -10,6 +11,7 @@ Bachelor of Physics (Expected 2020)&emsp;&emsp;GPA: 3.91/4.00&emsp;&emsp;Ranking
 Berkeley Physics International Education (BPIE) Program&emsp;&emsp;GPA: 4.00/4.00
 
 ## Research Experience
+---
 **University of Chinese Academy of Sciences (UCAS)**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;July 2018-Jan. 2019
 
 Supervisor: &nbsp;Prof. Yang-Heng Zheng
