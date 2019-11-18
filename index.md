@@ -56,4 +56,4 @@ Supervisor: &nbsp;Assoc. Prof. Wen-Bin Qian, Prof. Xiao-Rui Lyu
 
 Project: &nbsp;Generalized software package for partial wave analysis using GPU acceleration
 
-[outreach](outreach.md)
+[outreach](https://yinruiliu.github.io/outreach.md)
