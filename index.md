@@ -1,4 +1,6 @@
 # Yinrui (Lyret) Liu
+This page is for graduate application purpose.
+[Here is my CV]()
 
 ## Education
 ---
