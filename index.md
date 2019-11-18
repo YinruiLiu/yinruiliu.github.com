@@ -1,10 +1,6 @@
 # Yinrui (Lyret) Liu
 This page is for graduate application purpose.
-[Here is my CV](CV_Yinrui_Liu.pdf)
-
-(1).<embed src="CV_Yinrui_Liu.pdf" width="800" height="600" ></embed>
-(2).<object classid="clsid:CA8A9780-280D-11CF-A24D-444553540000" width="800" height="600" border="0"><param name="src" value="CV_Yinrui_Liu.pdf"> </object>
-(3).<iframe src="CV_Yinrui_Liu.pdf" width="800" height="600"></iframe>
+[Here is my CV](https://yinruiliu.github.io/CV_Yinrui_Liu.pdf)
 
 <table border="0">
   <tr>
@@ -13,12 +9,12 @@ This page is for graduate application purpose.
       <p><b>UCAS</b></p>
     </td>
     <td width="25%">
-      <img src="/5.png" width="100%"> 
+      <img src="https://yinruiliu.github.io/5.png" width="100%"> 
     </td>
   </tr>
 </table>
 
-![picture](5.png)
+![picture](https://yinruiliu.github.io/5.png)
 
 ## Education
 ---
