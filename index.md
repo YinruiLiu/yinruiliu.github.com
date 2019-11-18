@@ -26,7 +26,7 @@ Supervisor: &nbsp;Prof. Yury Kolomensky
 
 Project: &nbsp;Search for the low-mass Higgs boson with data at BaBar
 
-**University of Manchester (UoM)**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;July 2019-Aug. 2019
+**University of Manchester (UoM)**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;July 2019-Aug. 2019
 
 Supervisor: &nbsp;Dr. Marco Gersabeck
 
