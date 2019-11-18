@@ -1,6 +1,20 @@
 # Yinrui (Lyret) Liu
 This page is for graduate application purpose.
-[Here is my CV]()
+[Here is my CV](CV_Yinrui_Liu.pdf)
+
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Lyret</h1>
+      <p><b>UCAS</b></p>
+    </td>
+    <td width="25%">
+      <img src="/5.png" width="100%"> 
+    </td>
+  </tr>
+</table>
+
+![picture](5.png)
 
 ## Education
 ---
