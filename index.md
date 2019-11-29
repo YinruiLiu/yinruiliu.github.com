@@ -3,7 +3,7 @@
 <table border="0">
   <tr>
     <td width="50%">
-      Welcome to the homepage of Yinrui (Lyret) Liu! <br><br>This page is mainly for graduate application purpose. I'm applying PhD in physics. Wish me good luck! <br><br><a href="https://yinruiliu.github.io/CV_Yinrui_Liu.pdf">Here</a> is my CV.<br><br>Contents:<br><a href="#Education">Education</a><br><a href="#Research Experience">Research Experience</a><br><a href="#Outreach">Outreach</a>
+      Welcome to the homepage of Yinrui (Lyret) Liu! My CV is attached <a href="https://yinruiliu.github.io/CV_Yinrui_Liu.pdf">here</a>.<br><br>This page is mainly for graduate application purpose. I'm applying PhD in physics. Wish me good luck! <br><br>Contents:<br><a href="#Education">Education</a><br><a href="#Research Experience">Research Experience</a><br><a href="#Outreach">Outreach</a>
     </td>
     <td width="50%">
       <img src="https://yinruiliu.github.io/photo.jpg" width="100%"> 
@@ -12,9 +12,10 @@
   </tr>
 </table>
 
+<a name="Education"></a>
+
 ## Education
 ---
-<a name="Education"></a>
 **University of Chinese Academy of Sciences (UCAS)** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sept. 2016-Present
 
 Bachelor of Physics (Expected 2020)&emsp;&emsp;GPA: 3.91/4.00&emsp;&emsp;Ranking: 3/89 
@@ -23,9 +24,10 @@ Bachelor of Physics (Expected 2020)&emsp;&emsp;GPA: 3.91/4.00&emsp;&emsp;Ranking
 
 Berkeley Physics International Education (BPIE) Program&emsp;&emsp;GPA: 4.00/4.00 
 
+<a name="Research Experience"></a>
+
 ## Research Experience
 ---
-<a name="Research Experience"></a>
 **University of Chinese Academy of Sciences (UCAS)**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;July 2018-Jan. 2019
 
 Supervisor: &nbsp;Prof. Yang-Heng Zheng
@@ -40,13 +42,13 @@ Supervisor: &nbsp;Asst. Prof. Hai-Chen Wang, Prof. Yury Kolomensky
 
 Project: &nbsp;Repeating the process to detect Higgs boson in the diphoton decay channel
 
-This is a capstone of computational physics. A write-up for the project can be found [here](https://yinruiliu.github.io/lyret_Capstone_writeup-1.pdf)<br/><br/>
+This is a capstone of computational physics. A write-up for the project can be found [here](https://yinruiliu.github.io/lyret_Capstone_writeup-1.pdf)<br/><br/>.
 
 Supervisor: &nbsp;Prof. Yury Kolomensky
 
 Project: &nbsp;Search for the low-mass Higgs boson with data at BaBar
 
-The current result suggests no significant sign for the low-mass Higgs boson in the range. A note was presented to Prof. Kolomensky. But it's internal so I can't put it here.(sorry)<br/><br/>
+The current result suggests no significant sign for the low-mass Higgs boson in the range. A note was submitted to Prof. Kolomensky for internal purpose.<br/><br/>
 
 **University of Manchester (UoM)**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;July 2019-Aug. 2019
 
@@ -54,7 +56,7 @@ Supervisor: &nbsp;Dr. Marco Gersabeck
 
 Project: &nbsp;Development of a visualization tool for Dalitz analysis
 
-The main part of the GUI is shown as the left figure below.(In the demo, it's $D^0\rightarrow \pi^0\pi^+\pi^-$.) Many useful functions are also included in the program, i.e. the plots of projection (the right figure below).
+The main part of the GUI is shown as the left figure below.(In the demo, it's $D^0\rightarrow \pi^0\pi^+\pi^-$.) Many useful functions are also implemented in the program, i.e. the plots of projection (the right figure below).
 <table border="0">
   <tr>
     <td width="55%">
@@ -73,7 +75,7 @@ Supervisor: &nbsp;Assoc. Prof. Wen-Bin Qian, Prof. Xiao-Rui Lyu
 
 Project: &nbsp;Generalized software package for partial wave analysis using GPU acceleration
 
-[Here](https://yinruiliu.github.io/lyret_Capstone_writeup-1.pdf) is a report I gave to Prof. Guy Wilkinson FRS on Nov. 15. He spoke highly of our work. Currently we are working on the decay $e^+e^-\rightarrow\gamma\rightarrow D^{*-}\pi^+D^{*0}$. The distribution of the invariant masses are shown below.
+Currently, I work with a graduate student on the decay $e^+e^-\rightarrow\gamma\rightarrow D^{*-}\pi^+D^{*0}$ before generalizing the package. The distribution plots of the invariant masses are shown below. [Here](https://yinruiliu.github.io/lyret_Capstone_writeup-1.pdf) is a report I gave on Nov.15 to Prof. Guy Wilkinson FRS, the former spokesperson of LHCb. He spoke highly of our work. 
 <table border="0">
   <tr>
     <td width="33%">
@@ -88,9 +90,8 @@ Project: &nbsp;Generalized software package for partial wave analysis using GPU 
   </tr>
 </table>
 
+<a name="Outreach"></a>
 
 ## Outreach
 ---
-<a name="Outreach"></a>
-<br/><br/>
 Please don't miss my [outreach](https://yinruiliu.github.io/outreach.html)
