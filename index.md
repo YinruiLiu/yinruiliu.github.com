@@ -3,7 +3,7 @@
 <table border="0">
   <tr>
     <td width="50%">
-      Welcome to the homepage of Yinrui (Lyret) Liu! <br><br>This page is mainly for graduate application purpose. I'm applying PhD in physics. Wish me good luck! <br><br><a href="https://yinruiliu.github.io/CV_Yinrui_Liu.pdf">Here</a> is my CV.
+      Welcome to the homepage of Yinrui (Lyret) Liu! <br><br>This page is mainly for graduate application purpose. I'm applying PhD in physics. Wish me good luck! <br><br><a href="https://yinruiliu.github.io/CV_Yinrui_Liu.pdf">Here</a> is my CV.<br><br>Contents:<br><a href="#Education">Education</a><br><a href="#Research Experience">Research Experience</a><br><a href="#Outreach">Outreach</a>
     </td>
     <td width="50%">
       <img src="https://yinruiliu.github.io/photo.jpg" width="100%"> 
@@ -11,10 +11,10 @@
     </td>
   </tr>
 </table>
-<a href="#miao">去找喵星人</a>
 
 ## Education
 ---
+<a name="Education"></a>
 **University of Chinese Academy of Sciences (UCAS)** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sept. 2016-Present
 
 Bachelor of Physics (Expected 2020)&emsp;&emsp;GPA: 3.91/4.00&emsp;&emsp;Ranking: 3/89 
@@ -25,6 +25,7 @@ Berkeley Physics International Education (BPIE) Program&emsp;&emsp;GPA: 4.00/4.0
 
 ## Research Experience
 ---
+<a name="Research Experience"></a>
 **University of Chinese Academy of Sciences (UCAS)**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;July 2018-Jan. 2019
 
 Supervisor: &nbsp;Prof. Yang-Heng Zheng
@@ -88,7 +89,8 @@ Project: &nbsp;Generalized software package for partial wave analysis using GPU 
 </table>
 
 
-<a name="miao"></a>
-
+## Outreach
+---
+<a name="Outreach"></a>
 <br/><br/>
 Please don't miss my [outreach](https://yinruiliu.github.io/outreach.html)
