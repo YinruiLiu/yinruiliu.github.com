@@ -2,10 +2,10 @@
 
 <table border="0">
   <tr>
-    <td width="55%">
-      Welcome to the homepage of Yinrui (Lyret) Liu! <br>This page is mainly for graduate application purpose. I'm applying PhD in physics. Wish me good luck! <br><a href="https://yinruiliu.github.io/CV_Yinrui_Liu.pdf">Here</a> is my CV.
+    <td width="50%">
+      Welcome to the homepage of Yinrui (Lyret) Liu! <br><br>This page is mainly for graduate application purpose. I'm applying PhD in physics. Wish me good luck! <br><br><a href="https://yinruiliu.github.io/CV_Yinrui_Liu.pdf">Here</a> is my CV.
     </td>
-    <td width="45%">
+    <td width="50%">
       <img src="https://yinruiliu.github.io/photo.jpg" width="100%"> 
       <center>Photo by Yourong Frank Wang at Berkeley</center>
     </td>
@@ -71,7 +71,7 @@ Supervisor: &nbsp;Assoc. Prof. Wen-Bin Qian, Prof. Xiao-Rui Lyu
 
 Project: &nbsp;Generalized software package for partial wave analysis using GPU acceleration
 
-[Here](https://yinruiliu.github.io/lyret_Capstone_writeup-1.pdf) is a report I gave to Prof. Guy Wilkinson FRS on Nov. 15. He spoke highly of our work.
+[Here](https://yinruiliu.github.io/lyret_Capstone_writeup-1.pdf) is a report I gave to Prof. Guy Wilkinson FRS on Nov. 15. He spoke highly of our work. Currently we are working on the decay $e^+e^-\rightarrow\gamma\righarrow D^{*-}\pi^+D^{*0}$.
 <table border="0">
   <tr>
     <td width="33%">
