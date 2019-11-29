@@ -21,7 +21,7 @@ Welcome to the homepage of Yinrui (Lyret) Liu! This page is mainly for graduate 
 **University of Chinese Academy of Sciences (UCAS)** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sept. 2016-Present
 
 Bachelor of Physics (Expected 2020)&emsp;&emsp;GPA: 3.91/4.00&emsp;&emsp;Ranking: 3/89
-
+&nbsp;&nbsp;
 **University of California, Berkeley (UC Berkeley)**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Jan. 2019-May 2019
 
 Berkeley Physics International Education (BPIE) Program&emsp;&emsp;GPA: 4.00/4.00
