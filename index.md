@@ -4,10 +4,10 @@ Welcome to the homepage of Yinrui (Lyret) Liu! This page is mainly for graduate 
 <table border="0">
   <tr>
     <td width="70%">
-      Welcome to the homepage of Yinrui (Lyret) Liu! This page is mainly for graduate application purpose. I'm applying PhD in physics. Wish me good luck! <Here src="https://yinruiliu.github.io/CV_Yinrui_Liu.pdf"> is my CV.
+      Welcome to the homepage of Yinrui (Lyret) Liu! This page is mainly for graduate application purpose. I'm applying PhD in physics. Wish me good luck! <a href="https://yinruiliu.github.io/CV_Yinrui_Liu.pdf">跳转页面</a>
     </td>
     <td width="30%">
-      <img src="https://yinruiliu.github.io/photo.jpg" width="100%"> 
+      <img src="https://yinruiliu.github.io/photo.png" width="100%"> 
     </td>
   </tr>
 </table>
@@ -71,6 +71,20 @@ Supervisor: &nbsp;Assoc. Prof. Wen-Bin Qian, Prof. Xiao-Rui Lyu
 
 Project: &nbsp;Generalized software package for partial wave analysis using GPU acceleration
 
-[Here](https://yinruiliu.github.io/lyret_Capstone_writeup-1.pdf) is a report I gave to Prof. Guy Wilkinson FRS on Nov. 15. He spoke highly of our work.<br/><br/>
+[Here](https://yinruiliu.github.io/lyret_Capstone_writeup-1.pdf) is a report I gave to Prof. Guy Wilkinson FRS on Nov. 15. He spoke highly of our work.
+<table border="0">
+  <tr>
+    <td width="33%">
+      <img src="https://yinruiliu.github.io/m1.png" width="100%"> 
+    </td>
+    <td width="33%">
+      <img src="https://yinruiliu.github.io/m2.png" width="100%"> 
+    </td>
+    <td width="33%">
+      <img src="https://yinruiliu.github.io/m3.png" width="100%"> 
+    </td>
+  </tr>
+</table>
 
+<br/><br/>
 [outreach](https://yinruiliu.github.io/outreach.html)
