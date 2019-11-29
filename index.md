@@ -75,7 +75,7 @@ Supervisor: &nbsp;Assoc. Prof. Wen-Bin Qian, Prof. Xiao-Rui Lyu
 
 Project: &nbsp;Generalized software package for partial wave analysis using GPU acceleration
 
-Currently, I work with a graduate student on the decay $e^+e^-\rightarrow\gamma\rightarrow D^{*-}\pi^+D^{*0}$ before generalizing the package. The distribution plots of the invariant masses are shown below. [Here](https://yinruiliu.github.io/lyret_Capstone_writeup-1.pdf) is a report I gave on Nov.15 to Prof. Guy Wilkinson FRS, the former spokesperson of LHCb. He spoke highly of our work. 
+Currently, I work with a graduate student on the decay $e^+e^-\rightarrow\gamma\rightarrow D^{*-}\pi^+D^{*0}$ before generalizing the package. The distribution plots of the invariant masses are shown below. [Here](https://yinruiliu.github.io/Generalized Software Package for Partial Wave Analysis.pdf) is a report I gave on Nov.15 to Prof. Guy Wilkinson FRS, the former spokesperson of LHCb. He spoke highly of our work. 
 <table border="0">
   <tr>
     <td width="33%">
