@@ -30,31 +30,31 @@ Berkeley Physics International Education (BPIE) Program&emsp;&emsp;GPA: 4.00/4.0
 ---
 **University of Chinese Academy of Sciences (UCAS)**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;July 2018-Jan. 2019
 
-Supervisor: &nbsp;Prof. Yang-Heng Zheng
+<b>Supervisor</b>: &nbsp;Prof. Yang-Heng Zheng
 
-Project: &nbsp;Study on different methods to measure the CKM angle gamma
+<b>Project</b>: &nbsp;Study on different methods to measure the CKM angle gamma
 
 The beginning of my devotion to particle physics.<br/><br/>
 
 **University of California, Berkeley (UC Berkeley)**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Feb. 2019-July 2019
 
-Supervisor: &nbsp;Asst. Prof. Hai-Chen Wang, Prof. Yury Kolomensky
+<b>Supervisor</b>: &nbsp;Asst. Prof. Hai-Chen Wang, Prof. Yury Kolomensky
 
-Project: &nbsp;Repeating the process to detect Higgs boson in the diphoton decay channel
+<b>Project</b>: &nbsp;Repeating the process to detect Higgs boson in the diphoton decay channel
 
-This is a capstone of computational physics. A write-up for the project can be found [here](https://yinruiliu.github.io/lyret_Capstone_writeup-1.pdf)<br/><br/>.
+This is a capstone of computational physics. A write-up for the project can be found [here](https://yinruiliu.github.io/lyret_Capstone_writeup-1.pdf). <br/><br/>
 
-Supervisor: &nbsp;Prof. Yury Kolomensky
+<b>Supervisor</b>: &nbsp;Prof. Yury Kolomensky
 
-Project: &nbsp;Search for the low-mass Higgs boson with data at BaBar
+<b>Project</b>: &nbsp;Search for the low-mass Higgs boson with data at BaBar
 
 The current result suggests no significant sign for the low-mass Higgs boson in the range. A note was submitted to Prof. Kolomensky for internal purpose.<br/><br/>
 
 **University of Manchester (UoM)**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;July 2019-Aug. 2019
 
-Supervisor: &nbsp;Dr. Marco Gersabeck
+<b>Supervisor</b>: &nbsp;Dr. Marco Gersabeck
 
-Project: &nbsp;Development of a visualization tool for Dalitz analysis
+<b>Project</b>: &nbsp;Development of a visualization tool for Dalitz analysis
 
 The main part of the GUI is shown as the left figure below.(In the demo, it's $D^0\rightarrow \pi^0\pi^+\pi^-$.) Many useful functions are also implemented in the program, i.e. the plots of projection (the right figure below).
 <table border="0">
@@ -71,9 +71,9 @@ The main part of the GUI is shown as the left figure below.(In the demo, it's $D
 <br/><br/>
 **University of Chinese Academy of Sciences (UCAS)**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sept. 2019-Present
 
-Supervisor: &nbsp;Assoc. Prof. Wen-Bin Qian, Prof. Xiao-Rui Lyu
+<b>Supervisor</b>: &nbsp;Assoc. Prof. Wen-Bin Qian, Prof. Xiao-Rui Lyu
 
-Project: &nbsp;Generalized software package for partial wave analysis using GPU acceleration
+<b>Project</b>: &nbsp;Generalized software package for partial wave analysis using GPU acceleration
 
 Currently, I work with a graduate student on the decay $e^+e^-\rightarrow\gamma\rightarrow D^{*-}\pi^+D^{*0}$ before generalizing the package. The distribution plots of the invariant masses are shown below. [Here](https://yinruiliu.github.io/Generalized Software Package for Partial Wave Analysis.pdf) is a report I gave on Nov.15 to Prof. Guy Wilkinson FRS, the former spokesperson of LHCb. He spoke highly of our work. 
 <table border="0">
