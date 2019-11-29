@@ -43,19 +43,19 @@ Supervisor: &nbsp;Dr. Marco Gersabeck
 
 Project: &nbsp;Development of a visualization tool for Dalitz analysis
 
-The main part of the GUI is shown as the left figure below. Many useful functions are also included in the program, i.e. the plots of projection (the right figure below).
+The main part of the GUI is shown as the left figure below.(In the demo, it's $D^0\rightarrow \pi^0\pi^+\pi^-$.) Many useful functions are also included in the program, i.e. the plots of projection (the right figure below).
 <table border="0">
   <tr>
-    <td width="50%">
+    <td width="55%">
       <img src="https://yinruiliu.github.io/1.png" width="100%"> 
     </td>
-    <td width="50%">
+    <td width="45%">
       <img src="https://yinruiliu.github.io/5.png" width="100%"> 
     </td>
   </tr>
 </table>
 
-
+<br/><br/>
 **University of Chinese Academy of Sciences (UCAS)**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sept. 2019-Present
 
 Supervisor: &nbsp;Assoc. Prof. Wen-Bin Qian, Prof. Xiao-Rui Lyu
