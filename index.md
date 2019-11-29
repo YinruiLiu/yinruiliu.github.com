@@ -56,7 +56,7 @@ The current result suggests no significant sign for the low-mass Higgs boson in 
 
 <b>Project</b>: &nbsp;Development of a visualization tool for Dalitz analysis
 
-The main part of the GUI is shown as the left figure below.(In the demo, it's $D^0\rightarrow \pi^0\pi^+\pi^-$.) Many useful functions are also implemented in the program, i.e. the plots of projection (the right figure below).
+The main part of the GUI is shown as the left figure below.(In the demo, it's ![](http://latex.codecogs.com/gif.latex?D^0\rightarrow\pi^0\pi^+\pi^-).) Many useful functions are also implemented in the program, i.e. the plots of projection (the right figure below).
 <table border="0">
   <tr>
     <td width="55%">
@@ -75,7 +75,7 @@ The main part of the GUI is shown as the left figure below.(In the demo, it's $D
 
 <b>Project</b>: &nbsp;Generalized software package for partial wave analysis using GPU acceleration
 
-Currently, I work with a graduate student on the decay ![](http://latex.codecogs.com/gif.latex?e^+e^-\rightarrow\gamma\rightarrow D^{*-}\pi^+D^{*0}) before generalizing the package. The distribution plots of the invariant masses are shown below. [Here](https://yinruiliu.github.io/Generalized Software Package for Partial Wave Analysis.pdf) is a report I gave on Nov.15 to Prof. Guy Wilkinson FRS, the former spokesperson of LHCb. He spoke highly of our work. 
+Currently, I work with a graduate student on the decay ![](http://latex.codecogs.com/gif.latex?e^+e^-\rightarrow\gamma\rightarrow\\,D^{*-}\pi^+D^{*0}) before generalizing the package. The distribution plots of the invariant masses are shown below. [Here](https://yinruiliu.github.io/Generalized Software Package for Partial Wave Analysis.pdf) is a report I gave on Nov.15 to Prof. Guy Wilkinson FRS, the former spokesperson of LHCb. He spoke highly of our work. 
 <table border="0">
   <tr>
     <td width="33%">
