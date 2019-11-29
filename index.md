@@ -75,7 +75,7 @@ The main part of the GUI is shown as the left figure below.(In the demo, it's ![
 
 <b>Project</b>: &nbsp;Generalized software package for partial wave analysis using GPU acceleration
 
-Currently, I work with a graduate student on the decay ![](http://latex.codecogs.com/gif.latex?e^+e^-\rightarrow\gamma\rightarrow\\,D^{*-}\pi^+D^{*0}) before generalizing the package. The distribution plots of the invariant masses are shown below. [Here](https://yinruiliu.github.io/Generalized Software Package for Partial Wave Analysis.pdf) is a report I gave on Nov.15 to Prof. Guy Wilkinson FRS, the former spokesperson of LHCb. He spoke highly of our work. 
+Currently, I work with a graduate student on the decay ![](http://latex.codecogs.com/gif.latex?e^+e^-\rightarrow\gamma\rightarrow\\,D^{*-}\pi^+D^{*0}) before generalizing the package. The distribution plots of the invariant masses are shown below. [Here](https://yinruiliu.github.io/Generalized_Software_Package_for_Partial_Wave_Analysis.pdf) is a report I gave on Nov.15 to Prof. Guy Wilkinson FRS, the former spokesperson of LHCb. He spoke highly of our work. 
 <table border="0">
   <tr>
     <td width="33%">
