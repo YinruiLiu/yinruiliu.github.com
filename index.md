@@ -3,10 +3,10 @@ Welcome to the homepage of Yinrui (Lyret) Liu! This page is mainly for graduate 
 
 <table border="0">
   <tr>
-    <td width="70%">
-      Welcome to the homepage of Yinrui (Lyret) Liu! This page is mainly for graduate application purpose. I'm applying PhD in physics. Wish me good luck! <a href="https://yinruiliu.github.io/CV_Yinrui_Liu.pdf">跳转页面</a>
+    <td width="60%">
+      Welcome to the homepage of Yinrui (Lyret) Liu! This page is mainly for graduate application purpose. I'm applying PhD in physics. Wish me good luck! <a href="https://yinruiliu.github.io/CV_Yinrui_Liu.pdf">Here</a> is my CV.
     </td>
-    <td width="30%">
+    <td width="40%">
       <img src="https://yinruiliu.github.io/photo.png" width="100%"> 
     </td>
   </tr>
