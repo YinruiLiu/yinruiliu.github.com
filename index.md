@@ -3,7 +3,7 @@
 <table border="0">
   <tr>
     <td width="50%">
-      Welcome to the homepage of Yinrui (Lyret) Liu! <br><br>This page is mainly for graduate application purpose. I'm applying PhD in physics. Wish me good luck! <br><br><a href="https://yinruiliu.github.io/CV_Yinrui_Liu.pdf">Here</a> is my CV.
+      Welcome to the homepage of Yinrui (Lyret) Liu! <br><br>This page is mainly for graduate application purpose. I'm applying PhD in physics. Wish me good luck! <br><br><a href="https://yinruiliu.github.io/CV_Yinrui_Liu.pdf">Here</a> is my CV.<a href="#miao">去找喵星人</a>
     </td>
     <td width="50%">
       <img src="https://yinruiliu.github.io/photo.jpg" width="100%"> 
@@ -71,7 +71,7 @@ Supervisor: &nbsp;Assoc. Prof. Wen-Bin Qian, Prof. Xiao-Rui Lyu
 
 Project: &nbsp;Generalized software package for partial wave analysis using GPU acceleration
 
-[Here](https://yinruiliu.github.io/lyret_Capstone_writeup-1.pdf) is a report I gave to Prof. Guy Wilkinson FRS on Nov. 15. He spoke highly of our work. Currently we are working on the decay $e^+e^-\rightarrow\gamma\righarrow D^{*-}\pi^+D^{*0}$.
+[Here](https://yinruiliu.github.io/lyret_Capstone_writeup-1.pdf) is a report I gave to Prof. Guy Wilkinson FRS on Nov. 15. He spoke highly of our work. Currently we are working on the decay $e^+e^-\rightarrow\gamma\rightarrow D^{*-}\pi^+D^{*0}$. The distribution of the invariant masses are shown below.
 <table border="0">
   <tr>
     <td width="33%">
@@ -87,4 +87,4 @@ Project: &nbsp;Generalized software package for partial wave analysis using GPU 
 </table>
 
 <br/><br/>
-[outreach](https://yinruiliu.github.io/outreach.html)
+Please don't miss my [outreach](https://yinruiliu.github.io/outreach.html)
