@@ -1,7 +1,16 @@
 # Yinrui (Lyret) Liu
 Welcome to the homepage of Yinrui (Lyret) Liu! This page is mainly for graduate application purpose. I'm applying PhD in physics. Wish me good luck! [Here](https://yinruiliu.github.io/CV_Yinrui_Liu.pdf) is my CV.
 
-![picture](https://yinruiliu.github.io/5.png)
+<table border="0">
+  <tr>
+    <td width="70%">
+      Welcome to the homepage of Yinrui (Lyret) Liu! This page is mainly for graduate application purpose. I'm applying PhD in physics. Wish me good luck! <Here src="https://yinruiliu.github.io/CV_Yinrui_Liu.pdf"> is my CV.
+    </td>
+    <td width="30%">
+      <img src="https://yinruiliu.github.io/photo.jpg" width="100%"> 
+    </td>
+  </tr>
+</table>
 
 ## Education
 ---
