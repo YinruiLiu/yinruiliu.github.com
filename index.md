@@ -3,7 +3,7 @@
 <table border="0">
   <tr>
     <td width="50%">
-      Welcome to the homepage of Yinrui (Lyret) Liu! <br><br>This page is mainly for graduate application purpose. I'm applying PhD in physics. Wish me good luck! <br><br><a href="https://yinruiliu.github.io/CV_Yinrui_Liu.pdf">Here</a> is my CV.<a href="#miao">去找喵星人</a>
+      Welcome to the homepage of Yinrui (Lyret) Liu! <br><br>This page is mainly for graduate application purpose. I'm applying PhD in physics. Wish me good luck! <br><br><a href="https://yinruiliu.github.io/CV_Yinrui_Liu.pdf">Here</a> is my CV.
     </td>
     <td width="50%">
       <img src="https://yinruiliu.github.io/photo.jpg" width="100%"> 
@@ -11,6 +11,7 @@
     </td>
   </tr>
 </table>
+<a href="#miao">去找喵星人</a>
 
 ## Education
 ---
@@ -85,6 +86,9 @@ Project: &nbsp;Generalized software package for partial wave analysis using GPU 
     </td>
   </tr>
 </table>
+
+
+<a name="miao"></a>
 
 <br/><br/>
 Please don't miss my [outreach](https://yinruiliu.github.io/outreach.html)
