@@ -34,7 +34,7 @@ Berkeley Physics International Education (BPIE) Program&emsp;&emsp;GPA: 4.00/4.0
 
 <b>Project</b>: &nbsp;Study on different methods to measure the CKM angle gamma
 
-<font color=#0099ff size=5>The beginning of my devotion to particle physics.</font><br/><br/>
+The beginning of my devotion to particle physics.<br/><br/>
 
 **University of California, Berkeley (UC Berkeley)**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Feb. 2019-July 2019
 
@@ -48,7 +48,7 @@ This is a capstone of computational physics. A write-up for the project can be f
 
 <b>Project</b>: &nbsp;Search for the low-mass Higgs boson with data at BaBar
 
-The current result suggests no significant sign for the low-mass Higgs boson in the range. A note was submitted to Prof. Kolomensky for internal purpose.<br/><br/>
+The current result suggests no significant sign for the low-mass Higgs boson in the range. A note was submitted for internal purpose.<br/><br/>
 
 **University of Manchester (UoM)**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;July 2019-Aug. 2019
 
@@ -56,7 +56,7 @@ The current result suggests no significant sign for the low-mass Higgs boson in 
 
 <b>Project</b>: &nbsp;Development of a visualization tool for Dalitz analysis
 
-The main part of the GUI is shown as the left figure below.(In the demo, it's ![](http://latex.codecogs.com/gif.latex?D^0\rightarrow\pi^0\pi^+\pi^-).) Many useful functions are also implemented in the program, i.e. the plots of projection (the right figure below).
+The main part of the GUI is shown as the left figure below.(In the demo, it's ![](http://latex.codecogs.com/gif.latex?D^0\rightarrow\pi^0\pi^+\pi^-).) Many useful functions are also implemented in the program, i.e. the plots of projection (the right figure below). [A simple version](https://doi.org/10.5281/zenodo.3562341) was published on Zenodo on Dec. 4.
 <table border="0">
   <tr>
     <td width="55%">
@@ -75,7 +75,7 @@ The main part of the GUI is shown as the left figure below.(In the demo, it's ![
 
 <b>Project</b>: &nbsp;Generalized software package for partial wave analysis using GPU acceleration
 
-Currently, I work with a graduate student on the decay ![](http://latex.codecogs.com/gif.latex?e^+e^-\rightarrow\gamma\rightarrow\\,D^{*-}\pi^+D^{*0}) before generalizing the package. The distribution plots of the invariant masses are shown below. [Here](https://yinruiliu.github.io/Generalized_Software_Package_for_Partial_Wave_Analysis.pdf) is a report I gave on Nov.15 to Prof. Guy Wilkinson FRS, the former spokesperson of LHCb. He spoke highly of our work. 
+Currently, I work with a graduate student on the decay ![](http://latex.codecogs.com/gif.latex?e^+e^-\rightarrow\gamma\rightarrow\\,D^{*-}\pi^+D^{*0}) before generalizing the package. The distribution plots of the invariant masses are shown below. [Here is a report](https://yinruiliu.github.io/Generalized_Software_Package_for_Partial_Wave_Analysis.pdf) I gave on Nov.15 to Prof. Guy Wilkinson FRS, the former spokesperson of LHCb. He spoke highly of our work. 
 <table border="0">
   <tr>
     <td width="33%">
@@ -94,4 +94,4 @@ Currently, I work with a graduate student on the decay ![](http://latex.codecogs
 
 ## Outreach
 ---
-Please don't miss my [outreach](https://yinruiliu.github.io/outreach.html)
+Please don't miss my [gallery](https://yinruiliu.github.io/outreach.html). A few of my drawings there.
