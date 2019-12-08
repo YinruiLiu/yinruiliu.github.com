@@ -34,7 +34,7 @@ Berkeley Physics International Education (BPIE) Program&emsp;&emsp;GPA: 4.00/4.0
 
 <b>Project</b>: &nbsp;Study on different methods to measure the CKM angle gamma
 
-The beginning of my devotion to particle physics.<br/><br/>
+<font color=#0099ff size=5>The beginning of my devotion to particle physics.</font><br/><br/>
 
 **University of California, Berkeley (UC Berkeley)**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Feb. 2019-July 2019
 
