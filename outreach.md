@@ -53,4 +53,4 @@ I love drawing from a very young age. I learned sketch with a teacher during my 
   </tr>
 </table>
 
-In the future, I would like to try more with modern tools, and I will use more colors. <b>Science and art are never separate.</b> I hope I could use my paintings to get involved in some popular science work.
+<br/>In the future, I would like to try more with modern tools, and I will use more colors. <b>Science and art are never separate.</b> I hope I could use my paintings to get involved in some popular science work.
