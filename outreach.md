@@ -42,7 +42,7 @@ I love drawing from a very young age. I learned sketch with a teacher during my 
 <table border="0">
   <tr>
     <td width="40%">
-      Here are some of the elements I designed for the IGEM(International Genetically Engineered Machine) team of our univerisity. (The UCAS-IGEM team has won gold for the third consecutive year!) I designed this using PhotoShop.
+      Here are some of the elements I designed for the <a href="https://en.wikipedia.org/wiki/International_Genetically_Engineered_Machine">IGEM</a>(International Genetically Engineered Machine) team of our univerisity. (The UCAS-IGEM team has won gold for the third consecutive year!) I designed this using PhotoShop. All elements were made from scratch.
     </td>
     <td width="30%">
       <img src="https://yinruiliu.github.io/igem.png" width="100%"> 
