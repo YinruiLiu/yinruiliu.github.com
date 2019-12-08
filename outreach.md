@@ -22,7 +22,7 @@ I love drawing from a very young age. I learned sketch with a teacher during my 
       <img src="https://yinruiliu.github.io/trendy_gadgets.jpg" width="100%"> 
     </td>
     <td width="25%">
-      <img src="https://yinruiliu.github.io/Droste.jpg" width="100%"> 
+      <a href="https://en.wikipedia.org/wiki/International_Genetically_Engineered_Machine"><img src="https://yinruiliu.github.io/Droste.jpg" width="100%"></a> 
     </td>
     <td width="25%">
       <img src="https://yinruiliu.github.io/Descartes.jpg" width="100%"> 
