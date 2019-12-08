@@ -1,4 +1,4 @@
-### Hello!
+## Hello!
 Return to [home](https://yinruiliu.github.io/index.html)
 
 I love drawing from a very young age. I learned sketch with a teacher during my primary school, and here are two Voltaire I drew at that time.
@@ -54,3 +54,5 @@ I love drawing from a very young age. I learned sketch with a teacher during my 
 </table>
 
 <br/>In the future, I would like to try more with modern tools, and I will use more colors. <b>Science and art are never separate.</b> I hope I could use my paintings to get involved in some popular science work.
+
+<br/>Return to [home](https://yinruiliu.github.io/index.html)
