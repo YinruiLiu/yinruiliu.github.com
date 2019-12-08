@@ -48,7 +48,7 @@ This is a capstone of computational physics. A write-up for the project can be f
 
 <b>Project</b>: &nbsp;Search for the low-mass Higgs boson with data at BaBar
 
-The current result suggests no significant sign for the low-mass Higgs boson in the range. A note was submitted for internal purpose.<br/><br/>
+The current result suggests no significant sign for the low-mass Higgs boson in the range. A summary note was submitted for internal purpose.<br/><br/>
 
 **University of Manchester (UoM)**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;July 2019-Aug. 2019
 
