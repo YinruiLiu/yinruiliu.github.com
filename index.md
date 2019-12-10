@@ -82,10 +82,10 @@ Currently, I work with a graduate student on the decay ![](http://latex.codecogs
       <img src="https://yinruiliu.github.io/m_BC.png" width="100%"> 
     </td>
     <td width="33%">
-      <img src="https://yinruiliu.github.io/m_CD.png" width="100%"> 
+      <img src="https://yinruiliu.github.io/m_BD.png" width="100%"> 
     </td>
     <td width="33%">
-      <img src="https://yinruiliu.github.io/m_BD.png" width="100%"> 
+      <img src="https://yinruiliu.github.io/m_CD.png" width="100%"> 
     </td>
   </tr>
 </table>
