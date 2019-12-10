@@ -56,7 +56,7 @@ The current result suggests no significant sign for the low-mass Higgs boson in 
 
 <b>Project</b>: &nbsp;Development of a visualization tool for Dalitz analysis
 
-The main part of the GUI is shown as the left figure below.(In the demo, it's ![](http://latex.codecogs.com/gif.latex?D^0\rightarrow\pi^0\pi^+\pi^-).) Many useful functions are also implemented in the program, i.e. the plots of projection (the right figure below). [A simple version](https://doi.org/10.5281/zenodo.3562341) was published on Zenodo on Dec. 4.
+The main part of the GUI is shown as the left figure below.(In the demo, it's ![](http://latex.codecogs.com/gif.latex?D^0\rightarrow\pi^0\pi^+\pi^-).) Many useful functions are also implemented in the program, e.g. the plots of projection (the right figure below). [A simple version](https://doi.org/10.5281/zenodo.3562341) was published on Zenodo on Dec. 4.
 <table border="0">
   <tr>
     <td width="55%">
