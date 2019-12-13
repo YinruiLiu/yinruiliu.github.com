@@ -16,11 +16,11 @@
 
 ## Education
 ---
-**University of Chinese Academy of Sciences (UCAS)** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sept. 2016-Present
+**University of Chinese Academy of Sciences (UCAS)** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sept. 2016-Present
 
 Bachelor of Physics (Expected 2020)&emsp;&emsp;GPA: 3.91/4.00&emsp;&emsp;Ranking: 3/89 
 
-**University of California, Berkeley (UC Berkeley)**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Jan. 2019-May 2019
+**University of California, Berkeley (UC Berkeley)**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Jan. 2019-May 2019
 
 Berkeley Physics International Education (BPIE) Program&emsp;&emsp;GPA: 4.00/4.00 
 
@@ -28,7 +28,7 @@ Berkeley Physics International Education (BPIE) Program&emsp;&emsp;GPA: 4.00/4.0
 
 ## Research Experience
 ---
-**University of Chinese Academy of Sciences (UCAS)**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sept. 2019-Present
+**University of Chinese Academy of Sciences (UCAS)**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sept. 2019-Present
 
 <b>Supervisor</b>: &nbsp;Assoc. Prof. Wen-Bin Qian, Prof. Xiao-Rui Lyu
 
@@ -49,7 +49,7 @@ Currently, I work with a graduate student on the decay ![](http://latex.codecogs
   </tr>
 </table><br/><br/>
 
-**University of Manchester (UoM)**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;July 2019-Aug. 2019
+**University of Manchester (UoM)**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;July 2019-Aug. 2019
 
 <b>Supervisor</b>: &nbsp;Dr. Marco Gersabeck
 
@@ -67,7 +67,7 @@ The main part of the GUI is shown as the left figure below.(In the demo, it's ![
   </tr>
 </table><br/><br/>
 
-**University of California, Berkeley (UC Berkeley)**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Feb. 2019-July 2019
+**University of California, Berkeley (UC Berkeley)**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Feb. 2019-July 2019
 
 <b>Supervisor</b>: &nbsp;Prof. Yury Kolomensky
 
@@ -81,7 +81,7 @@ The current result suggests no significant sign for the low-mass Higgs boson in 
 
 This is a capstone of computational physics. A write-up for the project can be found [here](https://yinruiliu.github.io/lyret_Capstone_writeup-1.pdf). <br/><br/>
 
-**University of Chinese Academy of Sciences (UCAS)**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;July 2018-Jan. 2019
+**University of Chinese Academy of Sciences (UCAS)**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;July 2018-Jan. 2019
 
 <b>Supervisor</b>: &nbsp;Prof. Yang-Heng Zheng
 
