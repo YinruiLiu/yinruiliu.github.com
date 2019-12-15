@@ -3,7 +3,7 @@
 <table border="0">
   <tr>
     <td width="50%">
-      Welcome to the homepage of Yinrui (Lyret) Liu! My CV is attached <a href="https://yinruiliu.github.io/CV_Yinrui_Liu.pdf">here</a>.<br><br>This page is mainly for graduate application purpose. I'm applying PhD in physics. Wish me good luck! <br><br>Contents:<br><a href="#Education">Education</a><br><a href="#Research Experience">Research Experience</a><br><a href="#Outreach">Outreach</a>
+      Welcome to the homepage of Yinrui (Lyret) Liu! My CV is attached <a href="yinruiliu.github.io/CV_Yinrui_Liu.pdf">here</a>.<br><br>This page is mainly for graduate application purpose. I'm applying PhD in physics. Wish me good luck! <br><br>Contents:<br><a href="#Education">Education</a><br><a href="#Research Experience">Research Experience</a><br><a href="#Outreach">Outreach</a>
     </td>
     <td width="50%">
       <img src="https://yinruiliu.github.io/photo.jpg" width="100%"> 
@@ -34,7 +34,7 @@ Berkeley Physics International Education (BPIE) Program&emsp;&emsp;GPA: 4.00/4.0
 
 <b>Project</b>: &nbsp;Generalized software package for partial wave analysis using GPU acceleration
 
-Currently, I work with a graduate student on the decay ![](http://latex.codecogs.com/gif.latex?e^+e^-\rightarrow\gamma\rightarrow\\,D^{*-}\pi^+D^{*0}) before generalizing the package. The distribution plots of the invariant masses are shown below. [Here is a report](https://yinruiliu.github.io/Generalized_Software_Package_for_Partial_Wave_Analysis.pdf) I gave on Nov.15 to Prof. Guy Wilkinson FRS, the former spokesperson of LHCb. He spoke highly of our work. 
+Currently, I work with a graduate student on the decay ![](http://latex.codecogs.com/gif.latex?e^+e^-\rightarrow\gamma\rightarrow\,D^{*-}\pi^+D^{*0}) before generalizing the package. The distribution plots of the invariant masses are shown below. [Here is a report](https://yinruiliu.github.io/Generalized_Software_Package_for_Partial_Wave_Analysis.pdf) I gave on Nov.15 to Prof. Guy Wilkinson FRS, the former spokesperson of LHCb. He spoke highly of our work. 
 <table border="0">
   <tr>
     <td width="33%">
