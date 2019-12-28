@@ -79,7 +79,7 @@ The current result suggests no significant sign for the low-mass Higgs boson in 
 
 <b>Project</b>: &nbsp;Repeating the process to detect Higgs boson in the diphoton decay channel
 
-This is the capstone project for the course computational physics at Berkeley. My write-up for the project can be found [here](https://yinruiliu.github.io/lyret_Capstone_writeup-1.pdf). <br/><br/>
+This is the capstone project for the course computational physics at Berkeley. My write-up for the project can be found [here](https://yinruiliu.github.io/lyret_Capstone_writeup-1.pdf). (We three undergraduates worked together on the project, but each of us wrote an essay respectively.) <br/><br/>
 
 **University of Chinese Academy of Sciences (UCAS)**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;July 2018-Jan. 2019
 
